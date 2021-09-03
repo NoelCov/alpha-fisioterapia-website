@@ -7,7 +7,6 @@ import {
   HeaderTextContainer,
   HeaderTitle,
   HeaderSubtitle,
-  TextContainer,
   Text,
 } from "./header.styles";
 
@@ -19,7 +18,6 @@ const Header = () => {
         <HeaderSubtitle>
           {"Somos una clinica de Fisioterapia enfocada en el movimiento"}
         </HeaderSubtitle>
-        <TextContainer>
         <Text>
           {"Contamos con experiencia desde niños hasta adulto mayor!"}
         </Text>
@@ -38,12 +36,11 @@ const Header = () => {
               "Sea cual sea tu padecimiento, dolor, limitacion, queremos ayudarte y ensenarte el mejor camino para una adecuada recuperacion a traves del movimiento."
             }
           </Text>
-        </TextContainer>
       </HeaderTextContainer>
       <StaticImage
         alt="header"
         src="https://i.ibb.co/JCF5X33/PHOTO-2021-07-28-10-31-10.jpg"
-        height={750}
+        height={700}
       />
     </HeaderContainer>
   );
