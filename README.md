@@ -1,4 +1,4 @@
-## Alpha Fisioteria Website
+# Alpha Fisioteria Website
 
-# I'm building this website for my sister's business which is located in Mexico.
-# It will be a landing page for a physical teraphy business.
+I'm building this website for my sister's business which is located in Mexico.
+It will be a landing page for a physical teraphy business.
